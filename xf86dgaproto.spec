@@ -4,7 +4,7 @@
 #
 Name     : xf86dgaproto
 Version  : 2.1
-Release  : 13
+Release  : 14
 URL      : http://xorg.freedesktop.org/archive/individual/proto/xf86dgaproto-2.1.tar.bz2
 Source0  : http://xorg.freedesktop.org/archive/individual/proto/xf86dgaproto-2.1.tar.bz2
 Summary  : XF86DGA extension headers
